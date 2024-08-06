@@ -77,9 +77,6 @@ The instructions for this challenge are divided into the following subsections:
  
 
 <h2>References for the leaflet-challenge</h2><br/>
-Most of what's in this challenge, was covered in class.<br/>
-The few things that either weren't or we had to reference to, are described
-with it's source right below.<br/>
 
 
 - Legend creation:
