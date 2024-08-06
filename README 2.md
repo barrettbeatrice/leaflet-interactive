@@ -1,8 +1,8 @@
-<h1 align="center">DU - DA Module 15 "leaflet-challenge"<br/>
+
 An Interactive Earthquake Map</h1>
 <h2 align="center">Using HTML(PyCharm), CSS, JavaScript(Visual Studio Code), and the D3 and Leaflet libraries<br/>
 <br/>
-by Laura Vara</h2><br/>
+
 
 ![ForReadMe_mapWTEXT](https://github.com/vara-co/leaflet_challenge/assets/152572519/2f8cc091-0bc3-4867-b28d-09b6db44e5f2)
 
