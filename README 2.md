@@ -4,10 +4,7 @@ An Interactive Earthquake Map</h1>
 <br/>
 
 
-![ForReadMe_mapWTEXT](https://github.com/vara-co/leaflet_challenge/assets/152572519/2f8cc091-0bc3-4867-b28d-09b6db44e5f2)
 
-
-**Live Interactive Leaflet-Challenge HTML Deployment website:** https://vara-co.github.io/leaflet_challenge/
 
 The goal of this assignment was to build an interactive Earthquake visualization with information from the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) website.
 Note that I used the 'Feed', which is the column on the right side, for the 'Past 7 Days' for All Earthquakes. This can be updated in the code with a different link to see different date parameters or be selective with different magnitudes.
